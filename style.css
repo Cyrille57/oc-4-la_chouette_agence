@@ -742,7 +742,12 @@ h1 {
 h4 {
     color: #333333!important;
 }
-
+a:focus-within {
+    background-color: #C1C1C1;
+  }
+li:focus-within {
+    background-color: #C1C1C1;
+  }
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;

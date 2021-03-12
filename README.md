@@ -70,7 +70,7 @@ Suite aux différentes recommandations, prendre des mesures comparatives entre l
     </li>
 </ul>
 
-<h2> Rendue </h2>
+<h2>Rendue</h2>
 
 <p>
   Le site <a href="https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> et <a href="https://cyrille57.github.io/CyrilleMorel_4_01032021/">après</a>.</br>

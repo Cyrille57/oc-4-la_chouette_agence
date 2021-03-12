@@ -23,7 +23,7 @@
 <ul>
   <li>
     Les pages devront passer la validation W3C en <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fcyrille57.github.io%2FCyrilleMorel_4_01032021%2F">HTML</a> et
-    <a href="https://jigsaw.w3.org/css-validator/validator">CSS</a> sans erreur.
+    <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcyrille57.github.io%2FCyrilleMorel_4_01032021%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr">CSS</a> sans erreur.
   </li>
 </ul>
   

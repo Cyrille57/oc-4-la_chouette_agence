@@ -1,4 +1,4 @@
-# Projet OpenClassrooms / P4 La chouette agence
+# 📢 Projet OpenClassrooms / P4 La chouette agence
 
 <p> 
   Dans le cadre de ma formation développeur web avec OpenClassrooms, différents projets sont à realiser.
@@ -18,7 +18,7 @@
   Pour ce faire les maquettes, accompagné d'un compte rendu de réunion dans lequel je retrouve les consignes du livrables attendues, me sont fournies.
 </p>
 
-<h2> Général:</h2>
+<h2>🔎 Général:</h2>
 
 <ul>
   <li>
@@ -27,11 +27,11 @@
   </li>
 </ul>
   
-<h2> Technologies demandées: </h2>
+<h2>⚡ Technologies demandées: </h2>
 
 <p> Uniquement en Html et Css.
 
-<h2> Les consignes: </h2>
+<h2>📝 Les consignes: </h2>
 
 <h3>Analyse de l’état actuel de SEO du site fourni</h3>
 
@@ -70,7 +70,7 @@ Suite aux différentes recommandations, prendre des mesures comparatives entre l
     </li>
 </ul>
 
-<h2>Rendue</h2>
+<h2>👀 Rendue</h2>
 
 <p>
   Le site <a href="https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> et <a href="https://cyrille57.github.io/CyrilleMorel_4_01032021/">après</a>.</br>
@@ -79,5 +79,31 @@ Suite aux différentes recommandations, prendre des mesures comparatives entre l
   <a href="https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> 
   et <a href="https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://cyrille57.github.io/CyrilleMorel_4_01032021/">après</a> les 10 modifications.
 </p>
-<h2> Contact </h2>
-<p> Vous pouvez me contacter sur <a href="https://discord.gg/At8T9HD">discord</a>, <a href="https://twitter.com/Cyril2101">twitter</a> et <a href="mailto:cyril_dev@outlook.fr">mail</a>
+
+<h2>🙋‍♂️ À propos: </h2>
+
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/cyrille-morel/">Linkedin</a>
+  </li>
+</ul> 
+
+
+<h2>📫 Contact: </h2>
+
+<ul>
+  <li>
+    <a href="mailto:cyril_dev@outlook.fr">Mail</a>
+  </li>
+</ul>
+
+ <h2>🌐 Réseaux sociaux:</h2>
+ 
+<ul>
+  <li>
+    <a href="https://discord.gg/At8T9HD">Discord</a>
+  </li>
+  <li>
+    <a href="https://twitter.com/Cyril2101">Twitter</a>
+  </li>
+</ul>

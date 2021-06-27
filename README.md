@@ -11,7 +11,9 @@
 </p>
 
 <p>
-  <img alt="maquettes de l'index.html" height="600px" src="https://github.com/Cyrille57/CyrilleMorel_4_01032021/blob/master/screenshot/screenshot_index.html.png">
+  <img alt="maquettes de l'index.html" 
+       height="600px" 
+       src="https://github.com/Cyrille57/CyrilleMorel_4_01032021/blob/master/screenshot/screenshot_index.html.png">
 </p>
 
 <p> 

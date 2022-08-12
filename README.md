@@ -75,7 +75,7 @@ Suite aux différentes recommandations, prendre des mesures comparatives entre l
 <h2>👀 Rendue</h2>
 
 <p>
-  Le site <a href="https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> et <a href="https://cyrille57.github.io/CyrilleMorel_4_01032021/">après</a>.</br>
+  Le site <a href="https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> et <a href="https://cyrille57.github.io/oc-4-la_chouette_agence/">après</a>.</br>
   Le rapport et les scores de <a href="https://developers.google.com/web/tools/lighthouse/?utm_source=bdmtools&utm_medium=siteweb&utm_campaign=lighthouse">lighthouse</a>
   (outil d'audit SEO lancé par Google pour optimiser le positionnement d'une page web)
   <a href="https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> 

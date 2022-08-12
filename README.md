@@ -78,8 +78,8 @@ Suite aux différentes recommandations, prendre des mesures comparatives entre l
   Le site <a href="https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> et <a href="https://cyrille57.github.io/oc-4-la_chouette_agence/">après</a>.</br>
   Le rapport et les scores de <a href="https://developers.google.com/web/tools/lighthouse/?utm_source=bdmtools&utm_medium=siteweb&utm_campaign=lighthouse">lighthouse</a>
   (outil d'audit SEO lancé par Google pour optimiser le positionnement d'une page web)
-  <a href="https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> 
-  et <a href="https://lighthouse-dot-webdotdevsite.appspot.com/lh/html?url=https://cyrille57.github.io/oc-4-la_chouette_agence/">après</a> les 10 modifications.
+  <a href="https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcyrille57.github.io%2Fla_chouette_agence_a_modifier%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext">avant</a> 
+  et <a href="https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcyrille57.github.io%2Foc-4-la_chouette_agence%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext">après</a> les 10 modifications.
 </p>
 
 <h2>🙋‍♂️ À propos: </h2>

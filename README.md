@@ -54,14 +54,14 @@
     </li>
  </ul>
     
- <h3>Amélioration du SEO du site</h3>
+ <h3>Amélioration du SEO du site:</h3>
  <ul>
  <li>
  Optimiser le site en appliquant mes 10 recommandations à son contenu et à son code source.
  </li>
  </ul>
  
-  <h3>Comparaison des résultats</h3>
+  <h3>Comparaison des résultats:</h3>
  
 <ul>
  <li>
@@ -72,7 +72,7 @@ Suite aux différentes recommandations, prendre des mesures comparatives entre l
     </li>
 </ul>
 
-<h2>👀 Rendue</h2>
+<h2>👀 Rendu:</h2>
 
 <p>
   Le site <a href="https://cyrille57.github.io/la_chouette_agence_a_modifier/">avant</a> et <a href="https://cyrille57.github.io/oc-4-la_chouette_agence/">après</a>.</br>
